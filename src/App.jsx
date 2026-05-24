@@ -1,3 +1,4 @@
+// Jifri CK Premium Portfolio - Powered by React and GitHub Actions
 import React, { useEffect } from 'react';
 import CustomCursor from './components/CustomCursor';
 import Header from './components/Header';
